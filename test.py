@@ -11,3 +11,8 @@ d = 0
 
 print("This is a test")
 print("This is a test")
+
+d = 0
+
+print("This is a test")
+print("This is a test")
